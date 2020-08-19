@@ -1,0 +1,9 @@
+*/__pycache__/
+*.log
+*.pot
+*.pyc
+*__pycache__
+*/migrations/
+/ubuntu-wsl2-systemd-script
+/media/*
+.vscode/
